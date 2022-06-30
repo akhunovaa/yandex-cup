@@ -1,4 +1,6 @@
-import ru.ReadCall;
+package old;
+
+import old.ru.ReadCall;
 
 import java.util.ArrayList;
 import java.util.Arrays;

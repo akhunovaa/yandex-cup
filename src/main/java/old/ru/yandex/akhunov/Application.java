@@ -1,4 +1,4 @@
-package ru.yandex.akhunov;
+package old.ru.yandex.akhunov;
 
 import java.io.*;
 import java.util.ArrayList;

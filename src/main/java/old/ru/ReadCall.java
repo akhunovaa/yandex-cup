@@ -1,4 +1,4 @@
-package ru;
+package old.ru;
 
 public interface ReadCall {
 

@@ -1,3 +1,5 @@
+package old;
+
 public class Deadlock {
     public static void main(String[] args) {
         final Friend alphonse = new Friend("Alphonse");
